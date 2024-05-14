@@ -1,8 +1,6 @@
 ## vincent
-
-### Hi there 👋
-
-Member-worker at @hyphacoop
+### \vɛ̃.sɑ̃\ 
+#### Member-worker at [@hyphacoop](./hyphacoop)
 
 
 <!--
