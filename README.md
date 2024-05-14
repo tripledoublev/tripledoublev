@@ -1,5 +1,5 @@
-# \vɛ̃.sɑ̃\ 
-## Member-worker at [@hyphacoop](../../../../hyphacoop)
+\vɛ̃.sɑ̃\ 
+Member-worker at [@hyphacoop](../../../../hyphacoop)
 
 
 <!--
