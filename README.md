@@ -1,6 +1,9 @@
  
 ```
-\vɛ̃.sɑ̃\ 
+\vɛ̃.sɑ̃\
+
+
+  
             +-----+
         , '        ' ,
       /   \        /   \
@@ -10,8 +13,11 @@
       \   /        \   /
         '             '
             +-----+
+
+
+  
 ```
-Member-worker at [@hyphacoop](../../../../hyphacoop)  
+# Member-worker at [@hyphacoop](../../../../hyphacoop)  
 <!--
 **tripledoublev/tripledoublev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
