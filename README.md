@@ -1,5 +1,17 @@
 \vɛ̃.sɑ̃\  
 Member-worker at [@hyphacoop](../../../../hyphacoop)  
+
+            +-----+
+        , '        ' ,
+      /   \        /   \
+    /       \    /       \
+   +---------+  +---------+
+    \       /    \       /
+      \   /        \   /
+        '             '
+            +-----+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripledoublev&theme=dark)
 
 <!--
