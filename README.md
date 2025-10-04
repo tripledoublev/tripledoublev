@@ -19,9 +19,7 @@ graph LR
     C --> E[/E/]:::subroutine
     E --> N2[(N)]:::cylinderStyle
     N2 --> T{{T}}:::hexagonStyle
-    
-    %% Adding just one diagonal connection
-    N -.-> N2
+
 ```
 
 (FR) pronunciation `\vɛ̃.sɑ̃\`
