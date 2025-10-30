@@ -4,7 +4,7 @@
 
 graph LR
     %% Defining different node styles with various shapes and colors
-    classDef roundStyle fill:#FF9900,stroke:#FFF,stroke-width:2px,color:white,shape:circle
+    classDef roundStyle fill:#FF9900,stroke:#FFF,stroke-width:2px,color:white,padding:20,shape:circle
     classDef diamondStyle fill:#3498DB,stroke:#FFF,stroke-width:2px,color:white,shape:diamond
     classDef hexagonStyle fill:#2ECC71,stroke:#FFF,stroke-width:2px,color:white,shape:hexagon
     classDef rectStyle fill:#E74C3C,stroke:#FFF,stroke-width:2px,color:white,shape:rect
