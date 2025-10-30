@@ -20,6 +20,8 @@ graph LR
     E --> N2[(N)]:::cylinderStyle
     N2 --> T{{T}}:::hexagonStyle
 
+    %% Make links invisible
+    linkStyle default stroke:transparent,fill:none;
 ```
 
 (FR) pronunciation `\vɛ̃.sɑ̃\`
