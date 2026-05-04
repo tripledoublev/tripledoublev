@@ -5,7 +5,7 @@
 <!--
 vincent.charlebois.info
 -->
-### Technologist, software developer, and artist building AI systems, protocol interfaces, and cooperative digital infrastructure at Hypha.
+### Software developer and artist building AI systems, protocol interfaces, and cooperative digital infrastructure at Hypha.
 
 Full-stack engineer building agents and knowledge systems.
 
