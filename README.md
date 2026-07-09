@@ -1,11 +1,11 @@
 
 # vincent
 (FR) pronunciation `\vɛ̃.sɑ̃\`
-## Member-worker at [@hyphacoop](../../../../hyphacoop)  
+
 <!--
 vincent.charlebois.info
 -->
-### Software developer and artist building AI systems, protocol interfaces, and cooperative digital infrastructure at Hypha.
+### Software developer and artist building AI systems, protocol interfaces, and digital infrastructure.
 
 Full-stack engineer building agents and knowledge systems.
 
